@@ -1,0 +1,8 @@
+C:\Users\Kevin\odrive\Dropbox\Documents\Visual Studio 2008\Projects\PushBulletDoorbell\PushBulletDoorbell\bin\Debug\PushBulletDoorbell.dll
+C:\Users\Kevin\odrive\Dropbox\Documents\Visual Studio 2008\Projects\PushBulletDoorbell\PushBulletDoorbell\bin\Debug\PushBulletDoorbell.pdb
+C:\Users\Kevin\odrive\Dropbox\Documents\Visual Studio 2008\Projects\PushBulletDoorbell\PushBulletDoorbell\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\Users\Kevin\odrive\Dropbox\Documents\Visual Studio 2008\Projects\PushBulletDoorbell\PushBulletDoorbell\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\Kevin\odrive\Dropbox\Documents\Visual Studio 2008\Projects\PushBulletDoorbell\PushBulletDoorbell\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\Kevin\odrive\Dropbox\Documents\Visual Studio 2008\Projects\PushBulletDoorbell\PushBulletDoorbell\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kevin\odrive\Dropbox\Documents\Visual Studio 2008\Projects\PushBulletDoorbell\PushBulletDoorbell\obj\Debug\PushBulletDoorbell.dll
+C:\Users\Kevin\odrive\Dropbox\Documents\Visual Studio 2008\Projects\PushBulletDoorbell\PushBulletDoorbell\obj\Debug\PushBulletDoorbell.pdb
